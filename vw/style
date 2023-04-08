@@ -1,0 +1,27 @@
+img{
+width: 100%;
+}
+.nav-link{
+    color: navy;
+    opacity: 1;
+    font-weight: 900;
+}
+.logo-img{
+    width: 80px;
+}
+.zoom:hover{
+    transform: scale(1.5);
+}
+.zoom{
+    transition: 1.5s;
+}
+.col-md-5{
+overflow:hidden ;
+}
+.footer{
+    background-color: navy;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+    color:#dbdbdb;
+}
